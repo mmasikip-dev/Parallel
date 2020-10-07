@@ -1,0 +1,16 @@
+﻿{
+  "stepAssemblies": [
+    {
+      "assembly": "StepsProject"
+    }
+  ],
+  //"unitTestProvider": "SpecRun",
+  //"plugins": [
+  //  {
+  //    "name": "SpecRun"
+  //  }
+  //],
+  "generator": {
+    "allowDebugGeneratedFiles": true
+  }
+}
